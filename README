@@ -1,1 +1,20 @@
+<!DOCTYPE html>
+<html>
+<body>
 
+<h1>Description</h1>
+<p>  Pets 4 Vets is a fictitious 501c3 charity. After reading extensively on allowances made to veterans by the VA, and legislation that has since been implemented by Governor Newsom, I got to work on coding in HTML 5, CSS,and Bootstrap. Included are all the elements of Semantic HTML. In the interest of accessibility, I incorporated alt texts, in addition to incorporating code(which I keep incorrectly calling viewfinder) that makes websites accessible on multiple devices. Putting myself in the fictitious clients shoes, I was reminded of the reality that countless people across this country are competing for devices. I also researched the things that veterans are entitled to/not entitled to upon discharge. They are not given a brand new lap top. In the iteration of Tim O'Briens "The Things They Carried", I attempted to map out what a veteran would carry. They would certainly be carrying PTSD. There are numerous 501c3 charities that offer assistance with emotional support animals.Governor Newsom enacted legislatio
+n that went into effect in September of 2020,Veterans are permitted to adopt shelter animals, at no cost to them. However, 
+as of this writing, California has been in Phase 3 of Governor Newsom's plan to reopen the state for approximately a week 
+and a half. Veterans have not miraculousy cured their PTSD, and shelter animals are living on the good graces of volunteers 
+and the underpaid. I can't fix that, but I can provide a website in which veterans can interact with shelter babies so 
+that they may find their forever homes. 
+For the construction of this project, I implemented HTML5 to adhere to the semantics stated in the BCS Readme. I implemented Alt tags, and formatted so that the website 
+can be viewed by all potential customers, regardless of socioeconomic status. This would be particularly attractive to CEO's of charitable organizations in the climate
+of Covid-19. It would certainly be poor optics to deny veterans the ability to see an opportunity that could lead to their physical
+and psychological betterment. The dimensions of the Pexel-obtained photo are not the greatest, but there is a clearly articulated friendship between man and dog in the picture. I also added an embedded YouTube player which uses Sarah MacLaughlin's "Angel" as a sort of
+an elaborate shaming ritual(much in the vein of ASPCA commercials). This project was aided heavily by Google,geeksforgeeks.org
+(for code snippets and general re-inforcement of key concepts),tutorial republic, CodeWolf for GitHub, Ruby, and Jekyll(even though I just began to start using them).<p>
+</body>
+
+</html>
