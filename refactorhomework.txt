@@ -1,9 +1,8 @@
 <!DOCTYPE  html>
 <html>
-<head>
-<meta charset=utf-8>
-
-<img class="js-photo-page-image-img" alt="Close-Up Photo of Man and Dog" data-zoom-src="https://images.pexels.com/photos/3452005/pexels-photo-3452005.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=3&amp;h=750&amp;w=1260" src="https://images.pexels.com/photos/3452005/pexels-photo-3452005.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=750&amp;w=1260" srcset="https://images.pexels.com/photos/3452005/pexels-photo-3452005.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940 940w, https://images.pexels.com/photos/3452005/pexels-photo-3452005.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=750&amp;w=1260 1260w, https://images.pexels.com/photos/3452005/pexels-photo-3452005.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940 1880w, https://images.pexels.com/photos/3452005/pexels-photo-3452005.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=750&amp;w=1260 2520w" style="background: rgb(156, 115, 92); max-height: 75vh; max-width: calc(49.97vh); min-height: 300px; min-width: calc(199.88px);" data-zoom-initiated="true">
+<p class="text-success">Success.</p>
+<p class="text-black-50">Black text with 50% opacity</p>
+<p class="text-white-50 bg-dark">White text with 50% opacity</p><img class="js-photo-page-image-img" alt="Close-Up Photo of Man and Dog" data-zoom-src="https://images.pexels.com/photos/3452005/pexels-photo-3452005.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=3&amp;h=750&amp;w=1260" src="https://images.pexels.com/photos/3452005/pexels-photo-3452005.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=750&amp;w=1260" srcset="https://images.pexels.com/photos/3452005/pexels-photo-3452005.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940 940w, https://images.pexels.com/photos/3452005/pexels-photo-3452005.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=750&amp;w=1260 1260w, https://images.pexels.com/photos/3452005/pexels-photo-3452005.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940 1880w, https://images.pexels.com/photos/3452005/pexels-photo-3452005.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=750&amp;w=1260 2520w" style="background: rgb(156, 115, 92); max-height: 75vh; max-width: calc(49.97vh); min-height: 300px; min-width: calc(199.88px);" data-zoom-initiated="true">
 <title> Pets4Vets</title>
 <meta name="description"  content="Connecting Veterans and Shelter Pets in Covid-19>
 <link rel="stylesheet"  type=text/css href="theme.css">
@@ -72,3 +71,24 @@
     padding: /*15px; 15px; 15px; 15px; */
     border: 50px solid black; /* Pets 4 Vets */
     margin: 40px auto; /* set top and bottom margin to 20 pixels, and left and right margin to auto */
+    <!DOCTYPE html> 
+<html lang="en"> 
+
+<head> 
+	<meta charset="UTF-8"> 
+	<meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+	<meta http-equiv="X-UA-Compatible" content="ie=edge"> 
+	<script src="script.js"></script> 
+	<link rel="stylesheet" href="styles.css"> 
+	<title>Button Vanisher</title> 
+</head> 
+
+<body> 
+	<a onclick="toggle('plain')"> 
+		<div id="plain"> 
+		
+		</div> 
+	</a> 
+</body> 
+
+</html> 
