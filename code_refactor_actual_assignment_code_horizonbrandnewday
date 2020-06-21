@@ -1,0 +1,46 @@
+<head>
+    <meta charset="UTF-8" />
+    <link rel="stylesheet" href="./assets/css/style.css">
+    <title>website</title>
+    <title>Hurizon: A Brand New Day</title>
+
+</head>
+</head> 
+
+<body>
+    <div class="Hurizon:Have A Brand New Day">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/cA46ZNjrzeY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>        <h1>Hori<span class="seo">seo</span>n</h1>
+        <div>
+            <ul>
+@@ -27,19 +26,15 @@
+    </div>
+    <div class="hero"></div>
+    <div class="content">
+        <div class="search-engine-optimization">
+            <img src="./assets/images/search-engine-optimization.jpg" class="float-left" />
+        <div class="search-engine-optimization"
+            <h2>Search Engine Optimization
+            
+            </p>
+            <p> Get More Customers with Better Foot Traffic</p>
+        </div>
+        <div id="online-reputation-management" class="online-reputation-management">
+            <img src="./assets/images/online-reputation-management.jpg" class="float-right" />
+            <h2>Online Reputation Management</h2>
+            <p>
+    
+            </p>
+            <p> We know you're good people. Let us help to ensure that your customers know you're good people. 
+
+        </div>
+        <div id="social-media-marketing" class="social-media-marketing">
+            <img src="./assets/images/social-media-marketing.jpg" class="float-left" />
+@@ -75,7 +70,7 @@ <h3>Cost Management</h3>
+    <div class="footer">
+        <h2>Made with ❤️️ by Horiseon</h2>
+        <p>
+            &copy; 2019 Horiseon Social Solution Services, Inc.
+
+        </p>
+    </div>
+</body>
